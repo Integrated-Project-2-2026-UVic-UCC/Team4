@@ -1,6 +1,3 @@
-Here is the modified HTML content adapted to your **Smart Football Goal** project:
-
-```html
 <!-- HEADER & BANNER -->
 <div align="center">
   
@@ -130,4 +127,3 @@ The system ensures that a goal is only counted when the ball completely crosses 
     <a href="#">Contact</a>
   </p>
 </div>
-```
