@@ -1,2 +1,6 @@
 # Team4
-Team 4 repository. Modify this after project is decided.
+On football pitches all around the world, children and adults who want to play and keep track of the score usually have to do it manually, either by remembering the goals mentally or by using improvised methods such as writing the score down on the ground or on a mobile phone. However, all these methods present several problems: memory is not always reliable, there is often no clear way to keep track of the score, and disagreements may arise about whether a goal was valid or not. 
+
+Our goal is to leave all these issues behind and solve the problem at its root with our smart football goal system. By installing a set of sensors on the goal structure and net, the system can automatically detect when the ball completely crosses the goal line, ensuring an accurate and objective goal count. This eliminates human error and prevents disputes during informal or amateur matches. 
+
+In addition, we will develop a system that allows players to follow the match in real time, displaying the current score and relevant match information. Through this system, it will also be possible to create different game modes, record basic statistics, and enhance the overall playing experience by bringing professional-level technology to public and recreational football environments. 
