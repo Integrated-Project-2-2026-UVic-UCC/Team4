@@ -1,22 +1,20 @@
-# ⚡ Electronics – SmartGoal
+# ⚙️ Mechanics – SmartGoal
 
-This folder contains the electronic architecture of the SmartGoal system.
+This folder contains all mechanical components of the SmartGoal system.
 
-## Contents (probably, this is temporary)
+## Contents (probably, this is temporal)
 
-- Circuit schematics
-- PCB design files
-- Sensor wiring diagrams
-- Power management system
-- Bill of Materials (BOM)
+- 3D models of sensor mounts
+- Electronic enclosure design
+- Goal frame attachment system
+- Weather-protection casing
 
-## System Overview
+## Purpose
 
-The electronics subsystem is responsible for:
+The mechanical design ensures:
+- Secure sensor positioning
+- Protection against impacts and weather
+- Easy installation on standard football goals
+- Lightweight and durable structure
 
-- Detecting when the ball crosses the goal line
-- Processing sensor signals
-- Updating the digital scoreboard
-- Managing power distribution
-
-The design prioritizes reliability, low power consumption, and outdoor operation.
+All parts are designed for simple manufacturing using 3D printing.
