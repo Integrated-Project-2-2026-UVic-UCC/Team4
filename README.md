@@ -4,11 +4,8 @@
   <p>
     <i>Automatic goal detection and real-time match tracking for everyday football.</i>
   </p>
-
-  <img src="https://img.shields.io/badge/Project-SmartGoal-black?style=flat-square" alt="Project">
-  <img src="https://img.shields.io/badge/Field-Sports%20Technology-darkgreen?style=flat-square" alt="Field">
-  <img src="https://img.shields.io/badge/System-Embedded%20%26%20IoT-blue?style=flat-square" alt="System">
 </div>
+
 
 ---
 
