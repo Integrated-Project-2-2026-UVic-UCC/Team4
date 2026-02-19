@@ -88,7 +88,7 @@ Energy efficiency is also a priority, ensuring long operation times without freq
 
 ## 🔮 Future Development
 
-Planned upgrades include:
+Planned upgrades include (this may change):
 
 - Mobile application for match history
 - Tournament mode with multiple teams
